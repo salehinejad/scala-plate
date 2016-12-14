@@ -2,7 +2,7 @@
 
 This is a template for Scala code with Kafka dependencies using Gradle build automation and docker.
 
-Commands:
+## Commands:
 
 To build the image in docker: docker build -t gradle-scala-whale .
 
