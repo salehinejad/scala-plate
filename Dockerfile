@@ -1,5 +1,5 @@
 FROM java:8-jdk
-MAINTAINER Dave Henderson <dhenderson@gmail.com>
+MAINTAINER Hojjat Salehinejad
 
 ARG GRADLE_VERSION=2.6
 
